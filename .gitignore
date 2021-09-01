@@ -1,0 +1,11 @@
+
+*.tmp
+*.debug
+*.lib
+*.kicad_pcb-bak
+*.net
+*.pro
+*.sch
+*.sch-bak
+*.kicad_pcb
+voltage_controlled_panner_crossfader_schematic/fp-info-cache
