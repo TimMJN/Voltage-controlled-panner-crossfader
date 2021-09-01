@@ -9,3 +9,13 @@
 *.sch-bak
 *.kicad_pcb
 voltage_controlled_panner_crossfader_schematic/fp-info-cache
+*.zip
+*.gbl
+*.gbs
+*.gbo
+*.gto
+*.gm1
+*.gbr
+*.drl
+*.gtl
+*.gts
