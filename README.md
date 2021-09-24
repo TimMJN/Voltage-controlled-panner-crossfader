@@ -22,7 +22,7 @@ Each panner/crossfader stage has a single centre-trim setting, accesible by remo
 - Put the pan/fade potentiometer in the centre position.
 - Compare the voltages on both outputs through the testing points on the back of the module.
 - Adjust the trimmer until both outputs are equal.
-- 
+
 If you do not have access to a multimeter (you should when buidling DIY modules, even a simple one will do), you can choose to apply an audio signal to one of the inputs, and adjust until both outputs have equal volume.
 
 ## The patch
