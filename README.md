@@ -9,7 +9,7 @@
    - wide frequency range
    - separate outputs, normalled to the CV inputs
 
-A short [demonstration](https://youtu.be/eCm593cbdqw) is available on YouTube. View the [schematic](voltage_controlled_panner_crossfader_schematic/voltage_controlled_panner_crossfader.pdf) and [bill of materials](https://htmlpreview.github.io/?https://github.com/TimMJN/Voltage-controlled-panner-crossfader/blob/main/voltage_controlled_panner_crossfader_schematic/voltage_controlled_panner_crossfader_BOM.html) on this repository.
+A short [demonstration](https://youtu.be/eCm593cbdqw) is available on YouTube. View the [schematic](schematic+BOM/voltage_controlled_panner_crossfader.pdf) and [bill of materials](https://htmlpreview.github.io/?https://github.com/TimMJN/Voltage-controlled-panner-crossfader/blob/main/schematic%2BBOM/voltage_controlled_panner_crossfader_BOM.html) on this repository.
 
 # Notes and Frequently Asked Questions
 ## The build
